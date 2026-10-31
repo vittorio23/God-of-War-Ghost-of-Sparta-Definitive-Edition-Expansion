@@ -39,7 +39,7 @@ Game available in English and PT-BR.
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="1.jpg" width="49%">
+  <img src="5.jpg" width="49%">
   <img src="2.jpg" width="49%">
 </p>
 
@@ -49,5 +49,5 @@ Game available in English and PT-BR.
 </p>
 
 <p align="center">
-  <img src="5.jpg" width="49%">
+  <img src="1.jpg" width="49%">
 </p>
