@@ -35,3 +35,19 @@ YOU NEED YOUR OWN ISO TO PLAY. After downloading the 9 parts and extracting them
 Special thanks to Modder Espartano, since 95% of the textures used in the mod are his, and to Flokker for providing files that made developing the animation changes much easier.
 
 Game available in English and PT-BR.
+
+<h2>Screenshots</h2>
+
+<p align="center">
+  <img src="1.jpg" width="49%">
+  <img src="2.jpg" width="49%">
+</p>
+
+<p align="center">
+  <img src="3.jpg" width="49%">
+  <img src="4.jpg" width="49%">
+</p>
+
+<p align="center">
+  <img src="5.jpg" width="49%">
+</p>
